@@ -1,0 +1,17 @@
+Row ID,Order ID,Order Date,Ship Date,Customer Name,Segment,City,State,Region,Postal Code,Category,Sub-Category,Product Name,Sales,Quantity,Discount,Profit
+1,CA-2024-1001,03-01-24,06-01-24,Aarav Shah,Consumer,Los Angeles,California,West,90001,Furniture,Chairs,Office Chair,249.99,2,0,35.5
+2,CA-2024-1002,05-01-24,08-01-24,Maya Singh,Corporate,San Francisco,California,West,94105,Technology,Phones,Smartphone,699,1,0.1,62
+3,CA-2024-1003,07-01-24,10-01-24,Rohan Mehta,Home Office,New York,New York,East,10001,Office Supplies,Paper,Copy Paper,18.4,4,0,5.52
+4,CA-2024-1004,09-01-24,12-01-24,Priya Nair,Consumer,Chicago,Illinois,Central,60601,Furniture,Tables,Coffee Table,1299,1,0.15,-120
+5,CA-2024-1005,11-01-24,14-01-24,Kabir Khan,Corporate,Houston,Texas,Central,77002,Office Supplies,Storage,Storage Box,45.75,3,0,12.35
+6,CA-2024-1006,13-01-24,16-01-24,Ananya Rao,Consumer,Seattle,Washington,West,98101,Technology,Accessories,Wireless Mouse,29.99,2,0,8.1
+7,CA-2024-1007,15-01-24,18-01-24,Vikram Patel,Home Office,Boston,Massachusetts,East,2108,Office Supplies,Binders,3 Ring Binder,14.25,5,0,3.56
+8,CA-2024-1008,17-01-24,20-01-24,Neha Gupta,Consumer,Miami,Florida,South,33101,Technology,Machines,Printer,420,1,0.2,-45
+9,CA-2024-1009,19-01-24,22-01-24,Ishaan Das,Corporate,Phoenix,Arizona,West,85001,Furniture,Bookcases,Bookcase,310.5,1,0,24.84
+10,CA-2024-1010,21-01-24,24-01-24,Sara Ali,Consumer,Philadelphia,Pennsylvania,East,19103,Office Supplies,Art,Marker Set,22.8,3,0,6.84
+11,CA-2024-1011,23-01-24,26-01-24,Dev Kapoor,Corporate,Dallas,Texas,Central,75201,Technology,Copiers,Desktop Copier,899.99,1,0.1,90
+12,CA-2024-1012,25-01-24,28-01-24,Meera Iyer,Home Office,Denver,Colorado,West,80202,Office Supplies,Labels,Address Labels,11.5,2,0,4.14
+13,CA-2024-1013,27-01-24,30-01-24,Arjun Bose,Consumer,Atlanta,Georgia,South,30303,Furniture,Furnishings,Desk Lamp,64.99,1,0,10.4
+16,CA-2024-1014,29-01-24,01-02-24,Riya Sen,Consumer,San Diego,California,West,92101,Technology,Accessories,USB Cable,12.99,2,0,4.02
+17,CA-2024-1015,31-01-24,03-02-24,Karan Jain,Corporate,Portland,Oregon,West,97201,Office Supplies,Envelopes,Business Envelopes,8.6,1,0,2.15
+18,CA-2024-1016,02-02-24,05-02-24,Aditi Roy,Home Office,Boston,Massachusetts,East,2108,Furniture,Chairs,Guest Chair,185,1,0.05,18.5
